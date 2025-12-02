@@ -45,3 +45,9 @@ IF(), COUNTIF(), AVERAGEIF()
 - Conditional formatting for trend spotting
 
 - Data visualization (bar charts, column charts, line charts)
+
+## Dataset
+
+[Download the NYC Bus Breakdown Dataset](https://docs.google.com/spreadsheets/d/1DFYsE03TYK-qxHY0XkRtZPZpsl9NioK9/edit?usp=drive_link&ouid=115269619524881207620&rtpof=true&sd=true)  
+*This dataset contains detailed records of NYC bus breakdowns and delays used in this project.*
+
